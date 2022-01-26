@@ -1,1 +1,2 @@
 Practice GIT and Devops
+GIT command practice
